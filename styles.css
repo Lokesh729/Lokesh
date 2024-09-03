@@ -1,0 +1,185 @@
+.image{
+    background-image: url("home-studio.jpg");
+    height:1200px;
+    width: 100%;
+    background-size: cover;
+}
+.main-container{
+    background-color: black;
+    height: 100px;
+    width: 100%;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0px;
+    font-size: 2rem;
+  
+    
+}
+.logo{
+    display: flex;
+    
+}
+a{ 
+    margin: 180px;
+}
+.logo-1{
+    position: absolute;
+    top: 27px;
+ 
+}
+
+.second-conatiner{
+    display: flex;
+    font-size: 5rem;
+    justify-content: center;
+    position: absolute;
+    top: 53%;
+    right: 60%;
+    color: white;
+}
+.studio{
+    display: flex;
+    font-size: 17rem;
+    justify-content: center;
+    position: absolute;
+    top: 60%;
+    
+    left: 27%;
+    
+    font-weight: bolder;
+    color: white;
+
+}
+
+.line{
+    position: absolute;
+    top: 90%;
+   width: 50%;
+   display: flex;
+   left: 28%;
+  
+  
+}
+.written{
+    position: absolute;
+    display: flex;
+      top: 95%;
+      left: 30%;
+      opacity: .8;
+    color: #fff;
+    font-size: 2rem;
+    font-style: italic;
+}
+    
+.button{
+    position: absolute;
+    display: flex;
+    top: 110%;
+    left: 40%;
+    height: 5%;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fecb1c; 
+    border-color: #fecb1c;
+    font-size: 1.4rem;
+    border-radius: 10px;
+    border: 4px solid;
+    background-color: transparent;
+      
+
+}
+
+
+
+
+.fourt-container{
+    background-color: #fecb1c;
+    width: 100%;
+    height: 1200px;
+    position: relative;
+}
+
+/** secon page**/
+
+.work{
+    position: absolute;
+    top: 200px;
+    left: 20%;
+    font-size: 6rem;
+   }
+   .lorem{
+    position: absolute;
+    top: 300px;
+    left: 20%;
+    font-size: 1.3rem;
+   }
+   .dot1{
+    height: 400px;
+    width: 400px;
+    background-color: black;
+    border-radius: 100%;
+    position: absolute;
+    top: 160px;
+    left: 8%;
+    display: flex;
+    
+}
+
+.dot2{
+    height: 400px;
+    width: 400px;
+    background-color: black;
+    
+    background-size: cover;
+    border-radius: 100%;
+    position: absolute;
+    top: 160px;
+    left: 80%;
+    display: flex;
+    
+}
+#image{
+    border-radius:50%;
+}
+    
+.dot3{
+    height: 400px;
+    width: 400px;
+    background-color: black;
+    border-radius: 100%;
+    position: absolute;
+    left: 150%;
+    top: 160px;
+    display: flex;
+    
+}
+.line3{
+    position: absolute;
+    top: 700px ; 
+   width: 1700px;
+   left: 0px;
+   display: flex;
+
+  
+}
+.logo-4{
+    font-size: 50px;
+    display: flex;
+    justify-content: end;
+    position: absolute;
+    bottom: -750px;
+    right: -700px;
+
+}
+.icons{
+    margin: 20px;
+}
+
+    
+   
+
